@@ -23,7 +23,6 @@ function UserItem({ user: { login, avatar_url } }) {
           </Link>
         </div>
       </div>
-      {login}
     </div>
   );
 }
