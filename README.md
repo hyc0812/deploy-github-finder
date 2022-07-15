@@ -1,6 +1,8 @@
 # GitHub Finder
 
-[Demo Link]()
+The app was deployed on [Vercel](https://vercel.com/).
+
+This is the [Demo Link](https://deploy-github-finder.vercel.app/) to play with.
 
 How to run locally:
 ```linux
