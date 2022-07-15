@@ -2,7 +2,7 @@
 
 [Demo Link]()
 
-How to use?
+How to run locally:
 ```linux
 npm install
 npm start
