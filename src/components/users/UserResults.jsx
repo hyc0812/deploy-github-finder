@@ -7,7 +7,7 @@ export default function UserResults(props) {
   const { users, loading, fetchUsers } = useContext(GithubContext);
   useEffect(() => {
     fetchUsers();
-  }, []);
+  }, [fetchUsers]);
 
   if (!loading) {
     return (
