@@ -1,4 +1,4 @@
-# GitHub Finder
+# GitHub Finder 
 
 The app was deployed on [Vercel](https://vercel.com/).
 
